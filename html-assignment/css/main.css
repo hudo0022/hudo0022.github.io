@@ -30,3 +30,12 @@ header, footer {
     background-color:blue;
     color: white;
 }
+
+nav ul li {
+    list-style:none;
+
+}
+
+nav ul li a:link {
+    text-decoration:none;
+}
