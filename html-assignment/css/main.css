@@ -5,6 +5,15 @@ body {
 }
 
 header, footer {
-    background-color: aquamarine;
+    background-color: blue;
+
+}
+
+.site-title {
+    color: white;
+}
+
+.site-footer {
+    color: white;
 
 }
